@@ -9,7 +9,6 @@ A detailed reverse-engineered analysis of Kasada’s bot mitigation techniques, 
     Token Structure & Generation: Understanding how ct and cd values are computed and validated.
     Fingerprinting & Obfuscation: Analysis of JavaScript-based fingerprinting and obfuscation techniques.
     Mitigation Bypass Research: Exploring potential security weaknesses in anti-bot defenses.
-    Cryptographic Protections: Studying how cryptographic techniques are used to strengthen bot detection.
 
 ## 🚨 Disclaimer:
 This repository is strictly for educational and research purposes. It does not promote illegal activities, and any misuse is solely the responsibility of the user. If you're a website owner looking to enhance your bot protection, this research can help understand how adversaries analyze and bypass security mechanisms.
