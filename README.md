@@ -1,3 +1,5 @@
+This version is not functional anymore, for update dm!
+
 # Kasada-Solver
 🔍 Kasada Reverse Engineering – Client Token (CT) &amp; CD Value Generation
 
